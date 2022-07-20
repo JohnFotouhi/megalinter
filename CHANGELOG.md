@@ -19,6 +19,7 @@ Note: Can be used with `megalinter/megalinter@beta` in your GitHub Action mega-l
   - [cspell](https://github.com/streetsidesoftware/cspell/tree/master/packages/cspell) from 6.3.0 to **6.4.0** on 2022-07-19
   - [phpstan](https://phpstan.org/) from 1.8.1 to **1.8.2** on 2022-07-20
   - [checkov](https://www.checkov.io/) from 2.1.61 to **2.1.63** on 2022-07-20
+  - [checkov](https://www.checkov.io/) from 2.1.63 to **2.1.65** on 2022-07-20
 <!-- linter-versions-end -->
 
 ## [v6.1.0] - 2022-07-19
